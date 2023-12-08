@@ -9,7 +9,6 @@ About Be = {
 }
 ```
 
-
 # 🛒 
 [Tebex Store](https://ef-productions.tebex.io/)
 
