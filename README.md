@@ -1,4 +1,3 @@
-```html
 # 💫 About Me:
 
 ```lua
@@ -34,5 +33,3 @@ About Be = {
      
 </h1>
 <br>
-
-```
